@@ -10,7 +10,9 @@
 | to using a Closure or controller method. Build something great!
 |
 */
+Route::resource('cars', 'CarController');
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('accueil');
 });
+

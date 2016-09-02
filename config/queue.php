@@ -43,7 +43,7 @@ return [
 
         'beanstalkd' => [
             'driver' => 'beanstalkd',
-            'host' => 'localhost',
+            'host' => 'mysql.hostinger.fr',
             'queue' => 'default',
             'retry_after' => 90,
         ],
