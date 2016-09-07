@@ -5,7 +5,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Accueil
+                    Cars
                 </div>
 
                 <div class="links">

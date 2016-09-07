@@ -51,7 +51,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost:8888/Laravel'),
+    'url' => env('APP_URL', 'http://localhost:8888/Laravel/'),
 
     /*
     |--------------------------------------------------------------------------
