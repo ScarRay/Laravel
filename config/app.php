@@ -40,6 +40,7 @@ return [
 
     'debug' => env('APP_DEBUG', false),
 
+
     /*
     |--------------------------------------------------------------------------
     | Application URL
@@ -190,7 +191,6 @@ return [
     | the aliases are "lazy" loaded so they don't hinder performance.
     |
     */
-
     'aliases' => [
 
         'App' => Illuminate\Support\Facades\App::class,
