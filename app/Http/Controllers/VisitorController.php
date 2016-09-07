@@ -8,7 +8,7 @@ use App\Http\Requests;
 use App\Car;
 use App\Http\Controllers\Controller;
 
-class CarController extends Controller
+class VisitorController extends Controller
 {
 
   public function __construct()

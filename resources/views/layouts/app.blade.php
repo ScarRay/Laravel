@@ -78,5 +78,6 @@
 
     @yield('content')
     
+    <footer>Nombre de visiteurs à ce jour : {{ $nbVisitors }}</footer>
 </body>
 </html>
